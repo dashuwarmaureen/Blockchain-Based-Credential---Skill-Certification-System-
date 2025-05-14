@@ -73,3 +73,9 @@ clarinet test
 - Metadata can be stored off-chain with URI pointing to IPFS or similar systems
 
 ## 🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📜 License
+
+This project is licensed under the MIT License.
+```
